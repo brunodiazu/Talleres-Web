@@ -1,5 +1,6 @@
 # Glosario
 
+
 ---
 
 * Request:
